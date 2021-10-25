@@ -1,0 +1,6 @@
+Here are few small tasks for exploring the data.
+
+Identify the categorical features, Seggregate the nominal features from Ordinal features ?
+Identify the distribution of all categorical features ?
+Impute the mode value for all the missing values in the categorical columns ?
+Check CLT Theorem for all the continuous variable in the data ? Also plot all the descriptive statistics for the sampled data ?
